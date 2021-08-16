@@ -28,7 +28,7 @@ The planned enhancement I am working on is the creation of the mySQL database.  
 
 
 - [Professional Self Assessment](url)
-- [Refinement Plan and Code Review](url)
+- [Refinement Plan and Code Review](fastgunner.github.io/codereview/)
 - [Enhancement 1](https://github.com/fastgunner/Jukebox/wiki)
 - [Enhancement 2](https://github.com/fastgunner/quicksorter/wiki)
 - [Enhancement 3](https://github.com/fastgunner/AGSProject/wiki)
