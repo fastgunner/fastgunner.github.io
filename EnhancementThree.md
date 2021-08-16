@@ -1,4 +1,4 @@
-##Enhancement Three
+## Enhancement Three
 
 This artifact is an interview project I was requested to make for a job interview I took.  The prompt I was given was as follows
 
