@@ -1,4 +1,6 @@
-
+layout: page
+title: "Code Review"
+permalink: /codeReview/
 
 
 
