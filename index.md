@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/fastgunner/fastgunner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Dakota Cromer.  I've been at SNHU for approximately 3 years.  Prior to SNHU, I was at the Georgia Institute of Technology for 8 years completing several research papers, but had to withdraw due to financial reasons.  I currently work at the Intercontinental Exchange as a devOps developer on their trading platform.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Time at SNHU
+During my time at SNHU, I learned how to use MongoDB, I've learned how to create SQL queries, and I've learned how to write pythonic code and create an application in python.  
 
-### Markdown
+Prior to SNHU during my time at Georgia Tech, I learned how to write in java, how to create algorithms, and handle sorting algorithms, and how to calculate bigO notation for an algorithm.  I also learned how to create compilers and how to write intel x86 assembly code.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All throughout my time at both SNHU and Georgia Tech, I learned about the Software development lifecycle, or SDLC.  I learned the difference between waterfall and agile development work, and I worked on teams with others to create applications using the various SDLC methodologies. 
 
-```markdown
-Syntax highlighted code block
+I am hopeful that these skills will help me to further my career at ICE and perhaps other jobs in the future.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Portfolio Summary
+My portfolio is a series of three different artifacts from three different projects.  The first project (see Enhancement 1) builds on a project that I spent time working on with my peers at SNHU.  This project is a culmination of a jukebox with a playlists that a user is able to select from the playlist and see a list of songs.  My enhancement was the introduction of a search function that allows the user to query wikipedia for the song title and see more information about the song.  
 
-1. Numbered
-2. List
+My second enhancement is a quick sorter that takes in a CSV file and will run the quicksort algorithm on it by the first column in the file.  The program will then output the data in sorted form.  This is a programmatic way to sort data using the quicksort algorithm and is a good demonstration of my understanding of sorting algorithms as quick sort is one of the more difficult to implement.
 
-**Bold** and _Italic_ and `Code` text
+My third and final enhancement is an interview project I was requested to make for a job interview I took.  The prompt I was given was as follows
 
-[Link](url) and ![Image](src)
-```
+“An example of the CRUD functionality of a telephone book using SQL Express database and window forms or web for the inputs?”
+What I used to accomplish this was first building out an HTML page, then using JavaScript to execute a PHP function which handled the database inputs.  You could also select from Create, Read, Update, and Delete.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The planned enhancement I am working on is the creation of the mySQL database.  I didn’t end up getting the job because I didn’t understand the prompt correctly and I found out later that they wanted me to provide an SQL database file as well.  This artifact contains that completed mySQL database file.
 
-### Jekyll Themes
+### Looking Forward
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fastgunner/fastgunner.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+- [Professional Self Assessment](url)
+- [Refinement Plan and Code Review](url)
+- [Enhancement 1](url)
+- [Enhancement 2](url)
+- [Enhancement 3](url)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
