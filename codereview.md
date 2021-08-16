@@ -1,12 +1,12 @@
-### Code Review
+## Code Review
 
-#### Software Design/Engineering
+### Software Design/Engineering
 
-#### Algorithms and Data Structures
+### Algorithms and Data Structures
 
-#### Databases
+### Databases
 
-#### Code Review Video
+### Code Review Video
 
 Please find my code review video linked below.
 
