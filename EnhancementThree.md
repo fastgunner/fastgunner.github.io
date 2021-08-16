@@ -7,6 +7,8 @@ What I used to accomplish this was first building out an HTML page, then using J
 
 The planned enhancement I completed is the creation of the mySQL database. This artifact will show I am able to handle full stack development work including the SQL database portion.  
 
+Some future enhancements would be the sanitization of SQL inputs to prevent SQL injection attacks, the addition of graceful error handling, and a live feed of the database on the fly.
+
 
 [Enhancement 3 repository](https://github.com/fastgunner/AGSProject/wiki)
 
