@@ -1,9 +1,6 @@
-layout: page
-title: "Code Review"
-permalink: /CodeReview/
 
+###Code Review
 
+Please find my code review video linked below.
 
-<p align="center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WMBmPbCL74k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+https://www.youtube.com/embed/WMBmPbCL74k
