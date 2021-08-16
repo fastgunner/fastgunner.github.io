@@ -14,3 +14,8 @@ For this part of the project, I opted to use an interview prompt I received to c
 Please find my code review video linked below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KSU--2QNHW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Main Page](https://fastgunner.github.io/index.html)
+- [Enhancement 1](https://fastgunner.github.io/EnhancementOne.html)
+- [Enhancement 2](https://fastgunner.github.io/EnhancementTwo.html)
+- [Enhancement 3](https://fastgunner.github.io/EnhancementThree.html)
