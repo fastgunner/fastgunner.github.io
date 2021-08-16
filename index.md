@@ -1,4 +1,4 @@
-## Professional Self Assessment
+## Professional Self Assessment and Project Walkthrough
 
 Hello, my name is Dakota Cromer.  I've been at SNHU for approximately 3 years.  Prior to SNHU, I was at the Georgia Institute of Technology for 8 years completing several research papers, but had to withdraw due to financial reasons.  I currently work at the Intercontinental Exchange as a devOps engineer on their trading platform.  
 
@@ -29,6 +29,7 @@ The planned enhancement I worked on is the creation of the mySQL database.  I di
 ### Looking Forward
 My time at SNHU and at Georgia tech has prepared me for the rigors of being a programmer.  Long late nights coupled with early mornings have been in no short supply.  The result is a set of skills i've been able to hone into something I can be proud to called me.
 
+##### Project Links
 - [Refinement Plan and Code Review](https://fastgunner.github.io/codereview.html)
 - [Enhancement 1 repository](https://github.com/fastgunner/Jukebox/wiki)
 - [Enhancement 2 repository](https://github.com/fastgunner/quicksorter/wiki)
