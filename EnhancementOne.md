@@ -11,6 +11,6 @@ The ran into an issue with the Wikipedia API requiring a license, so the workaro
 
 This creates some interesting problems, first wikipedia doesn't always link to the correct wiki page.  This can result in some unexpected results when the tab is opened in the browser, such as the wiki page for the color yellow popping up rather than the coldplay song.  It can also display a list of possible links although I wasn't able to access a list of links every time due to the limitations of what I was able to accomplish without the license.
 
-[Enhancement 1 Repository](https://github.com/fastgunner/Jukebox/wiki)
+[Enhancement 1 Repository](https://github.com/fastgunner/Jukebox)
 
 [Main Page](https://fastgunner.github.io/index.html)
