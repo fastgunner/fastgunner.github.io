@@ -10,6 +10,6 @@ The planned enhancement I completed is the creation of the mySQL database. This 
 Some future enhancements would be the sanitization of SQL inputs to prevent SQL injection attacks, the addition of graceful error handling, and a live feed of the database on the fly.
 
 
-[Enhancement 3 repository](https://github.com/fastgunner/AGSProject/wiki)
+[Enhancement 3 repository](https://github.com/fastgunner/AGSProject)
 
 [Main Page](https://fastgunner.github.io/index.html)
