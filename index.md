@@ -31,8 +31,8 @@ My time at SNHU and at Georgia tech has prepared me for the rigors of being a pr
 
 ##### Project Links
 - [Refinement Plan and Code Review](https://fastgunner.github.io/codereview.html)
-- [Enhancement 1 repository](https://fastgunner.github.io/EnhancementOne.html)
-- [Enhancement 2 repository](https://fastgunner.github.io/EnhancementTwo.html)
-- [Enhancement 3 repository](https://fastgunner.github.io/EnhancementThree.html)
+- [Enhancement 1](https://fastgunner.github.io/EnhancementOne.html)
+- [Enhancement 2](https://fastgunner.github.io/EnhancementTwo.html)
+- [Enhancement 3](https://fastgunner.github.io/EnhancementThree.html)
 
 
