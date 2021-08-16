@@ -6,6 +6,6 @@ I had originally intended to add merge and selection sort although those can be 
 
 Some additional features to add in the future are the ability to weight different columns and sort by all weighted columns individually, returning the results.  The app also struggles with keeping the data together as it will not return a multidimensional array.
 
-[Enhancement 2 repository](https://github.com/fastgunner/quicksorter/wiki)
+[Enhancement 2 repository](https://github.com/fastgunner/quicksorter)
 
 [Main Page](https://fastgunner.github.io/index.html)
